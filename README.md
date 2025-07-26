@@ -27,7 +27,8 @@ CRC
 
 ## 🖥️ Skills
 
-📝 언어  <br>
+**📝 언어**  
+<br>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
@@ -35,14 +36,16 @@ CRC
 
 <br>
 
-🖥️ OS  <br>
+**🖥️ OS**  
+<br>
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/WSL-0a97f5?style=flat-square&logo=linux&logoColor=white"/></a>
 
 <br>
 
-**🤝 협업/문서화 툴**<br>
+**🤝 협업/문서화 툴**
+<br>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>
@@ -52,7 +55,8 @@ CRC
 
 <br>
 
-**📚 기타 툴/프레임워크/라이브러리**  <br>
+**📚 기타 툴/프레임워크/라이브러리**  
+<br>
 <a href="#"><img src="https://img.shields.io/badge/Simulink-EE5C22?style=flat-square&logo=mathworks&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/OrCAD-ED1C24?style=flat-square&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>
@@ -65,7 +69,8 @@ CRC
 
 <br>
 
-**🔧 하드웨어/보드**  <br>
+**🔧 하드웨어/보드**  
+<br>
 <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/></a>

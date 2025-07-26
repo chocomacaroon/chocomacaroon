@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Taehui's+Github!👋&fontSize=40"/>
 
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hedgehog.png" alt="Hedgehog" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hedgehog.png" alt="Hedgehog" width="25" height="25" />
 Embedded SW Developer
 <br>
 **Interests:** Vehicle / UAM / IoT / Robotics
@@ -38,7 +41,4 @@ CRC
 | **Tools** | <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> |
 | **etc/framework/Library** | <a href="#"><img src="https://img.shields.io/badge/Simulink-EE5C22?style=flat-square&logo=mathworks&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/SLAM-0Cc7b7?style=flat-square&logo=semantic-release&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/OrCAD-ED1C24?style=flat-square&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Gazebo-8E24AA?style=flat-square&logo=gnometerminal&logoColor=white"/></a> |
 | **HW/Board** | <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/Infineon%20TC3XX-009999?style=flat-square&logo=infineon&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/></a> |
-
-<!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomacaroom&layout=compact&theme=algolia)
 

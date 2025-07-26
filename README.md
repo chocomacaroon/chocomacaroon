@@ -1,7 +1,4 @@
-## Hi I'm Taehui 👋
-
 ## ⚾ About me!
-I'm interested in ..
 
 <p>
   <!-- Tistory -->
@@ -10,7 +7,7 @@ I'm interested in ..
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <!-- Notion -->
 </p>
-
+<!--
 ## 🎙️ Video
 
 ## 📋 Projects & Research
@@ -24,10 +21,10 @@ CRC
 ## 📝 Papers
 타겟 드론
 이온풍
+-->
 
 ## 🖥️ Skills
 
----
 
 #### 📝 언어  
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>

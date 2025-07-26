@@ -1,10 +1,7 @@
 ## Hi I'm Taehui 👋
 
 ## ⚾ About me!
-티스토리
-노션
-링크드인
-인스타그램
+I'm interested in ..
 
 <p>
   <!-- Tistory -->
@@ -14,21 +11,21 @@
   <!-- Notion -->
 </p>
 
-🎙️ Video
+## 🎙️ Video
 
-📋 Projects & Research
+## 📋 Projects & Research
 학교 플젝
 CRC
 
-🏆 Awards
+## 🏆 Awards
 
-⭐ boot camp
+## ⭐ boot camp
 
-📝 Papers
+## 📝 Papers
 타겟 드론
 이온풍
 
-🖥️ Skills
+## 🖥️ Skills
 ### 언어
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
@@ -56,3 +53,4 @@ CRC
 <a href="#"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Infineon%20TC3XX-009999?style=for-the-badge&logo=infineon&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>

@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Taehui's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=50&fontAlignY=36" alt="header"/>
 </p>
 
+Hi!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" height="25" /> I'm Taehui <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25" height="25" />
+
 **Interests:** Embedded / Vehicle / UAM / IoT / Robotics
 
 <p>

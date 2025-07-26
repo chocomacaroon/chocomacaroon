@@ -1,12 +1,9 @@
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Taehui's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=50&fontAlignY=50" alt="header"/>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Taehui's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=50&fontAlignY=36" alt="header"/>
+</p>
 
-
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="25" height="25" /> Embedded SW Developer
-<br>
 **Interests:** Vehicle / UAM / IoT / Robotics
 
 <p>

@@ -29,9 +29,9 @@ CRC
 
 **📝 언어**  
 <br>
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/></a>
 
 <br>
@@ -50,22 +50,19 @@ CRC
 <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/></a>
 
 <br>
 
 **📚 기타 툴/프레임워크/라이브러리**  
 <br>
 <a href="#"><img src="https://img.shields.io/badge/Simulink-EE5C22?style=flat-square&logo=mathworks&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/OrCAD-ED1C24?style=flat-square&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/SLAM-0Cc7b7?style=flat-square&logo=semantic-release&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/OrCAD-ED1C24?style=flat-square&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Gazebo-8E24AA?style=flat-square&logo=gnometerminal&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 
 <br>
 

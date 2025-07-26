@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <!-- Notion -->
 </p>
+
 <!--
 ## 🎙️ Video
 
@@ -21,6 +22,7 @@ CRC
 ## 📝 Papers
 타겟 드론
 이온풍
+
 -->
 
 ## 🖥️ Skills

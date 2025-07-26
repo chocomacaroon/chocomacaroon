@@ -42,8 +42,3 @@ CRC
 <!-- 사용한 언어 순위 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocomacaroom&layout=compact&theme=algolia)
 
-<!-- GitHub Stats Card -->
-[![Taehui's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/chocomacaroom/github-readme-stats)
-
-<!-- solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/profile/kwonk17)

@@ -9,7 +9,7 @@
 
 <p>
   <!-- Tistory -->
-  <a href="https://justdoit-coding.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <a href="https://justdoit-coding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <!-- Notion -->

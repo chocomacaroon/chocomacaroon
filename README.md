@@ -1,8 +1,8 @@
-<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=10&amp;height=200&amp;text=Taehui's%20GITHUB&amp;fontSize=50&amp;animation=twinkling&amp;fontAlign=68&amp;fontAlignY=36" alt="header"/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Taehui's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=50&fontAlignY=50" alt="header"/>
+
+
 
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="25" height="25" /> Embedded SW Developer
